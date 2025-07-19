@@ -30,6 +30,7 @@ Kết nối Internet: Để kích hoạt Key License và sử dụng proxy.
 Bước 1: Tải phần mềm
 
 Truy cập VsisLogin Download.
+https://vsislogin.vsis.net/download/vsislogin_setup.zip
 Tải file cài đặt mới nhất (file .exe).
 Kiểm tra tính toàn vẹn của file tải về (nếu có checksum được cung cấp).
 
