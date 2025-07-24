@@ -1,6 +1,6 @@
 # VsisLogin - Phần mềm quản lý profile và giả lập an toàn, tiện lợi
 
-![VsisLogin Logo](https://vsislogin.vsis.net/wp-content/uploads/2023/05/logo.png)
+![VsisLogin Logo]([https://vsislogin.vsis.net/wp-content/uploads/2023/05/logo.png](https://vsis.net/wp-content/uploads/2025/06/update-vsislogin4.3.0.png))
 
 VsisLogin là phần mềm hỗ trợ người dùng tạo và quản lý nhiều profile trình duyệt hoặc giả lập (như LDPlayer, NoxPlayer, Memu) một cách nhanh chóng, an toàn và tiện lợi. Phần mềm giúp thay đổi browser fingerprint, user-agent, và thông số thiết bị, tạo môi trường giống như một máy tính riêng biệt cho từng profile. VsisLogin đặc biệt phù hợp cho các mục đích như quản lý nhiều tài khoản mạng xã hội, thực hiện airdrop quy mô lớn, hoặc các hoạt động marketing online.
 
